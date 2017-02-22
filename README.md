@@ -10,9 +10,9 @@ This project is for final assignment on Coursera Course(Getting and Cleaning Dat
 
 ###Assignment Submission Files:-
 
-* README.md 
-* CodeBook.md
-* run_analysis.R
+* [README.md](https://github.com/gouravawasthi/Final-Assignment/blob/master/README.md) 
+* [CodeBook.md](https://github.com/gouravawasthi/Final-Assignment/blob/master/Code%20Book)
+* [run_analysis.R](https://github.com/gouravawasthi/Final-Assignment/blob/master/run_analysis.R)
 
 
 ###Instructions
@@ -28,6 +28,8 @@ This project is for final assignment on Coursera Course(Getting and Cleaning Dat
 ###Dependencies
 
 The R script assumes you have 'reshape2' installed using install.packages("reshape2")
-More Information
+
+
+### More Information
 
 For more information on the data set, please refer to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
