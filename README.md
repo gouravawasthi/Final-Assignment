@@ -11,7 +11,7 @@ This project is for final assignment on Coursera Course(Getting and Cleaning Dat
 ###Assignment Submission Files:-
 
 * [README.md](https://github.com/gouravawasthi/Final-Assignment/blob/master/README.md) 
-* [CodeBook.md](https://github.com/gouravawasthi/Final-Assignment/blob/master/Code%20Book)
+* [CodeBook.md](https://github.com/gouravawasthi/Final-Assignment/blob/master/Code%20Book.md)
 * [run_analysis.R](https://github.com/gouravawasthi/Final-Assignment/blob/master/run_analysis.R)
 
 
