@@ -1,4 +1,4 @@
-# CodeBook for the tidy dataset
+# Code Book for the tidy dataset
 Data source for the project :- ["Human Activity Recognition Using Smartphones Data Set"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 ## Tidy data set process
 1. Start Fresh by deleting other variables in R workspace.
